@@ -19,8 +19,10 @@ User Interface: Simple and intuitive UI for data input and results visualization
 
 <p>What we have performed in this project is:<br /> 
 
-We do basic descriptive analytics with pandas which is about finding the shape of data means how many rows and columns of data.<br /> 
-Mean, median, mode, Standard deviation, percentile, of numeric columns of data and classes, and unique values of categorical columns.<br /> 
+We do basic descriptive analytics with pandas<br /> 
+Finding the shape of data means how many rows and columns of data.<br /> 
+Mean, median, mode, Standard deviation.<br /> 
+Percentile, of numeric columns of data and classes, and unique values of categorical columns.<br /> 
 Finding the missing values, outlier detection, find the correlation between the variables.<br /> 
 Perform linear regression and pre processing.</p>
 
