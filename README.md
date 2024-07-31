@@ -7,7 +7,7 @@ The Car Price Analysis System is a comprehensive tool designed to analyze and pr
 OVERVIEW
 
 Data is collected from kaggle:
-
+https://www.kaggle.com/datasets/sukhmandeepsinghbrar/car-price-prediction-dataset
 
 Features:<br />
 Data Collection: Import car price data from various sources.<br /> 
@@ -19,12 +19,9 @@ User Interface: Simple and intuitive UI for data input and results visualization
 
 <p>What we have performed in this project is:<br /> 
 
-Total Suicides in India<br /> 
-Total Suicides in India by Cause of Suicide<br /> 
-Total Suicides In India Gender Wise<br /> 
-Total Suicides In India State Wise<br /> 
-Total Suicides In India State-Gender Wise<br /> 
-Predict Suicides in India Using Machine Learning Algorithms<br /> 
-Predict Suicides in India as per the count of male/female Using Linear Regression Algorithm<br /> 
-Predict Suicides in India of Females as per the Male Using Linear Regression Algorithm</p>
+We do basic descriptive analytics with pandas which is about finding the shape of data means how many rows and columns of data.<br /> 
+Mean, median, mode, Standard deviation, percentile, of numeric columns of data and classes, and unique values of categorical columns.<br /> 
+Finding the missing values, outlier detection, find the correlation between the variables.<br /> 
+Perform linear regression and pre processing.</p>
+
 
